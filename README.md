@@ -13,10 +13,10 @@ Temperature Converter
 1. Celsius to Fahrenheit and Kelvin
 2. Fahrenheit to Celsius
 3. Kelvin to Celsius
-   Choose an option (1/2/3): 1
-   Enter the temperature in Celsius: 25
-   25.0°C = 77.00°F
-   25.0°C = 298.15K
+4. Choose an option (1/2/3): 1
+5. Enter the temperature in Celsius: 25
+6. 25.0°C = 77.00°F
+7. 25.0°C = 298.15K
 
 ## How to Run
 
